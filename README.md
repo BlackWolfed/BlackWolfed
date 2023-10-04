@@ -4,10 +4,27 @@
 
 ## I'm a Red Team analyst || Python Developer || Bug Hunter!!
 
-- 🔭 I just launched my first course: [Ethical Hacking zero to hero]
-- 🌱 I’m currently learning Red Teaming discipline
-- 👯 I’m looking to collaborate with other Connections
-- 🥅 2021 Goals: Contribute more to Open Source projects
+Experienced Red Team analyst with a diverse skill set, including:
+
+🎯 Expertise in Web Application security testing, with a deep understanding of OWASP Top 10 and SANS Top 25 vulnerabilities. including expertise in API security and a deep understanding of OWASP API Top 10, Proficient in generating comprehensive security reports.
+
+🎯 Strong background in Network Pentesting, encompassing a wide range of activities such as conducting comprehensive vulnerability assessments and performing both internal and external penetration testing.
+
+🎯 Background in utilizing security solutions including Picus (Breach and attack simulation), MITRE ATT&CK, Tenable, EDR (Endpoint Detection and Response), NDR (Network Detection and Response), XDR (Extended Detection and Response), TIP (Threat Intelligence Platform).
+
+🎯 Specialization in developing best practices for cloud security.
+
+🎯 Solid foundation in software development, encompassing programming languages and their lifecycles.
+
+🎯 Proficiency in configuring and utilizing the Linux operating system, including various utilities and programming.
+
+🎯 Familiarity with Windows operating systems, PowerShell, and Active Directory.
+
+🎯 Familiarity with compliance standards such as PCI-DSS and ISO 27001, demonstrating a commitment to security best practices.
+
+🎯 In-depth knowledge of hardware, software, and networking technologies, enabling a holistic approach to analysis, implementation, and support.
+
+🎯 Proven experience in project management, including ensuring project continuity, reviewing the team's technical work, and maintaining service quality.
 - ⚡ Fun fact: I love UI Design and reading books
 
 
